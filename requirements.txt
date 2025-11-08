@@ -1,6 +1,7 @@
-python-telegram-bot==13.15
+python-3.11.6
 google-generativeai
 google-api-python-client
 youtube-transcript-api
 python-dotenv
 requests
+imghdr
